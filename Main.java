@@ -7,9 +7,7 @@ public class Main {
     }
 
     public static void menuPrincipal (){
-        System.out.println("*******************");
-        System.out.println("\"Hola, benvingut a la calculadora de cost PVP!\"");
-        System.out.println("*******************");
+        System.out.println("\"Hola, benvingut a la calculadora de cost PVP!\"")
     }
 
     public static float llegirFloat() {
