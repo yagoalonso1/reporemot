@@ -37,6 +37,7 @@ public class Main {
     public static float preuFinal (){
         float preufinalnum = (float) (llegirFloat()*1.21);
         System.out.println("El preu final és " + preufinalnum + "€");
+        System.out.println("Gràcies per utlitzarme");
         return preufinalnum;
     }
 }
